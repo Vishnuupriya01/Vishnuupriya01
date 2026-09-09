@@ -9,4 +9,4 @@ Strong probability/EV-based decision-making, Python fluency, and the kind of qua
 
 **Featured project:** [Stock Volatility & Risk Analysis](https://github.com/Vishnuupriya01/stock-volatility-analysis) ; returns, rolling volatility, correlation, and Monte Carlo Value-at-Risk estimation.
 
-Reach me: vishnuupriya01@gmail.com | [LinkedIn](www.linkedin.com/in/vishnuu-priya-a-860b9827b)
+Reach me: vishnuupriya01@gmail.com | [LinkedIn](https://www.linkedin.com/in/vishnuu-priya-a-860b9827b/)
